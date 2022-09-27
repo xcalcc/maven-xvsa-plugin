@@ -1,0 +1,13 @@
+<lifecycles>
+    <lifecycle>
+        <id>xvsa</id>
+        <phases>
+            <phase>
+                <id>compile</id>
+                <configuration>
+                    <debug>true</debug>
+                </configuration>
+            </phase>
+        </phases>
+    </lifecycle>
+</lifecycles>
